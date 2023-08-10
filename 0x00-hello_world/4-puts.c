@@ -1,10 +1,5 @@
 #include<stdio.h>
-int main()
-{
-	//string initialisation
-    char Mystr[] = "Programming is like building a multilingual puzzle,\n";
-    
-    puts(Mystr); //writing the string to stdout
-    
+int puts(const char *"Programming is like building a multilingual puzzle)
+
     return 0;
-}
+
